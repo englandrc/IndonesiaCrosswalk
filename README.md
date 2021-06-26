@@ -1,7 +1,7 @@
 # IndonesiaCrosswalk
 Code to extract and compile openly available location code history and correspondence.
 
-Data downloaded from https://sig.bps.go.id/bridging-kode/index. Consists of two sets of files:
+All data is downloaded from the website of BPS (*Badan Pusat Statistik*, the statistics bureau), at https://sig.bps.go.id/bridging-kode/index. Consists of two sets of files:
 
 ## 1. Historical Crosswalk
 These files track administrative subdivisions in Indonesia throughout time. For provinces (*provinsi*) and districts (*kabupaten*), the earliest available data point is from the 1961 Census, whereas for lower level subdivisions the earliest available data is from the 2010 Census.

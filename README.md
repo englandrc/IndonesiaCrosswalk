@@ -14,3 +14,6 @@ The Ministry of Home Affairs (MoHA)/*Kementerian Dalam Negeri (Kemendagri)* main
 - Merge historical crosswalk into one big file
 - Merge historical crosswalks with upper administrative divisions
 - Merge MoHA crosswalks with upper administrative divisions
+
+### June 2022 update
+New provinces were announced by the central government, adding 2 new provinces in Papua. Codes will be added in as they become available
